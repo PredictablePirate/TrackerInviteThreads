@@ -38,7 +38,7 @@ Each entry has a count of how many users have verified it. A higher number indic
 | BLU | OPS | 2020-12-19 | BLU account in good standing | 1 |
 | BLU | Anthelion | 2020-21-19 | Good standing here at BLU (no warnings) | 1 |
 | BLU | Aither | 2020-11-24 | | 1 |
-| BLU | FileList | 2020-09-10 | 1 |
+| BLU | FileList | 2020-09-10 | | 1 |
 | BLU | TeamHD | 2019-12-05 | | 1 |
 | BLU | UHDBits | 2019-09-26 | | 1 |
 | BLU | AsianCinema | 2019-03-30 | You are not currently warned on Blutopia. <br> You have been on Blutopia for at least three(3) months. <br> PM me 5 torrents (preferably Asian media) that you are currently seeding on Blutopia. Also PM your seeding time if you don't seed 24/7 | 1 |
