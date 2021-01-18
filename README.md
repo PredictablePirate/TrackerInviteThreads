@@ -77,3 +77,19 @@ Each entry has a count of how many users have verified it. A higher number indic
 | GGn | PixelHD | ? | Pro Gamer+ | 0 |
 | GGn | Redacted | ? | Pro Gamer+ | 0 |
 | GGn | SocietyGlitch | ? | Pro Gamer+, 3 months | 0 |
+| AB | Awesome-HD | ? | Power User+, 3 months | 0 |
+| AB | Bemaniso | ? | Power User+, no paranoia, tell recruiter which rhythm games you play | 0 |
+| AB | BrokenStones | ? | Power User+, 6 months | 0 |
+| AB | Concertos | ? | Power User+ | 0 |
+| AB | FunFile | ? | Power User+ | 0 |
+| AB | GazelleGames | ? | Power User+, 3 months | 0 |
+| AB | Immortals | ? | 1) Please tell us a little bit about yourself including interests, hobbies and BT journey so far. <br> 2) Your current IP address.  <br> 3) 3 additional Tracker profile links, must be over 1 year old. <br> 4) Unedited screens of those trackers provided from you profile page. <br> 5) Profile links to any other BT forum you are a member of (active or inactive) with unedited screens of your profile page. <br> Gmail only! | 0 |
+| AB | In The Shadow | ? |  | 0 |
+| AB | LzTr | ? | Power User+, 3 months | 0 |
+| AB | MoreThan.TV | ? | Power User, 6 months, 1.5+ ratio, no active warnings, discuss favourite TV series | 0 |
+| AB | PixelHD | ? | Elite+ | 0 |
+| AB | SocietyGlitch | ? | Power User+, account in good standing, explain why you want in | 0 |
+| AB | TeamHD | ? | Power User+ | 0 |
+| AB | TheGeeks | ? | Power User+ | 0 |
+| AB | ThePlace | ? | Power User+ | 0 |
+| AB | TheShow | ? | Power User+ | 0 |
