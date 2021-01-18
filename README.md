@@ -53,3 +53,27 @@ Each entry has a count of how many users have verified it. A higher number indic
 | EMP | PixelCove | ? | Great Perv+ | 0 |
 | EMP | Sinderella | ? | 1 year, 20+ uploads | 0 |
 | EMP | UHDBits | ? | Great Perv+ | 0 |
+| GGn | Aither | ? | Pro Gamer+ | 0 |
+| GGn | AlphaRatio | ? | Pro Gamer+ | 0 |
+| GGn | AnimeBytes | ? | Legendary Gamer+, 6 months | 0 |
+| GGn | Anthelion | ? | Pro Gamer+ | 0 |
+| GGn | AsianCinema | ? | Able to see thread | 0 |
+| GGn | BeyondHD | ? | Pro Gamer+ | 0 |
+| GGn | BrasilTracker | ? | Pro Gamer+, 3 months | 0 |
+| GGn | CGPeers | ? | Gamer+, 3 months, 1.0+ ratio | 0 |
+| GGn | Concertos | ? | Pro Gamer+ | 0 |
+| GGn | Empornium | ? | Pro Gamer+ | 0 |
+| GGn | ExtremeBits | ? | Pro Gamer+ | 0 |
+| GGn | FunFile | ? | Pro Gamer+ | 0 |
+| GGn | HD-Torrents | ? | Pro Gamer+, 3 months | 0 |
+| GGn | In The Shadow | ? |  | 0 |
+| GGn | MoreThan.TV | ? | Power User, 6 months, 1.5+ ratio, no active warnings, discuss favourite TV series | 0 |
+| GGn | MyAnonaMouse | ? | Pro Gamer+ | 0 |
+| GGn | Nebulance | ? | Pro Gamer+ | 0 |
+| GGn | Notwhat.cd | ? | Power User+ | 0 |
+| GGn | Orpheus | ? | Elite Gamer+, 6 months | 0 |
+| GGn | PirateTheNet | ? | Pro Gamer+ | 0 |
+| GGn | PixelCove | ? | Pro Gamer+ | 0 |
+| GGn | PixelHD | ? | Pro Gamer+ | 0 |
+| GGn | Redacted | ? | Pro Gamer+ | 0 |
+| GGn | SocietyGlitch | ? | Pro Gamer+, 3 months | 0 |
