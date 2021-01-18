@@ -93,3 +93,9 @@ Each entry has a count of how many users have verified it. A higher number indic
 | AB | TheGeeks | ? | Power User+ | 0 |
 | AB | ThePlace | ? | Power User+ | 0 |
 | AB | TheShow | ? | Power User+ | 0 |
+| OPS | BrasilTracker | ? | Power User+, 3 months | 0 |
+| OPS | BrokenStones | ? | Power User+ | 0 |
+| OPS | LzTr | ? | EU+, 6 months | 0 |
+| OPS | Notwhat.cd | ? | Power User+ | 0 |
+| OPS | Oppaitime | ? | EU+, 3 months | 0 |
+| OPS | UHDBits | ? | Power User+ | 0 |
