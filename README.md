@@ -59,12 +59,16 @@ Each entry has a count of how many users have verified it. A higher number indic
 | AHD | TheVault | ? | PU+, 6 months, questionnaire | 0 |
 | AHD | UHDBits | ? | HD-Pro+ | 0 |
 | AR | BeyondHD | ? | Sphinx+ | 0 |
-| AR | HD-Bits | ? | PU+ | 0 |
-| AR | LzTr | ? | Sphinx+, 6 months | 0 |
+| AR | HD-Bits | ? | PU+ | 1 |
+| AR | LzTr | ? | Sphinx+, 6 months | 1 |
 | AR | Racing4Everyone | ? | Sphinx+, 1.0+ ratio, no warnings | 0 |
 | AR | SceneHD | ? | Satyr, Adonis, Cyclops, Chimera. Fill torrents or upload scene releases as a bonus | 0 |
 | AR | TorrentSeeds | ? | Sphinx+, no microsoft emails | 0 |
-| AR | UHDBits | ? | Sphinx, 1+ upload if below Satyr | 0 |
+| AR | UHDBits | ? | Sphinx, 1+ upload if below Satyr | 1 |
+| AR | obscure | ? | ? | 1 |
+| AR | BaconBits | ? | ? | 1 |
+| AR | In The Shadows | ? | ? | 1 |
+| AR | AnimeBytes | ? | ? | 1 |
 | AussieRules | T3nnisTV | ? | account in good standing | 0 |
 | AvistaZ | CinemaZ | ? | 3 months, 200GB upload, 1.0+ ratio, no HnRs | 0 |
 | AvistaZ | PrivateHD | ? | 3 months, 800GB+ Upload, 1.0+ ratio, no HnRs | 0 |
@@ -480,7 +484,6 @@ Each entry has a count of how many users have verified it. A higher number indic
 | TeamHD | HD-Forever | ? | 1080i+ | 0 |
 | TeamHD | HD-Torrents | ? |  | 0 |
 | TeamHD | HDArea | ? | >5 TB Upload | 0 |
-| TeamHD | OurBits | ? | PU+, 3 months, 1.0+ ratio, no warnings | 0 |
 | TeamHD | PolishSource | ? | 2160p+ | 0 |
 | TeamHD | TLFBits | ? | 3 months | 0 |
 | TeamHD | TorrentLeech | ? | EU+, decent english, 100Mbps+ upload speed, 1TB+ Upload, 5.0+ ratio | 0 |
