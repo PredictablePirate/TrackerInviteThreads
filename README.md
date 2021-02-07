@@ -3,6 +3,18 @@ A list of invite threads on trackers
 
 Each entry has a count of how many users have verified it. A higher number indicates that the thread is likely to exist, but not necessarily that it's active or that the requirements are up to date.
 
+# Contributing
+There are several options for contributing:
+ - Post on https://www.sb-innovation.de/showthread.php?9925
+ - Make a pull request
+ - Make an issue
+
+Contributions do not need to be fully detailed, they could be as simple as:
+ - verifying an entry is valid
+ - notifying of removed invite threads
+ - providing the name of a tracker that has an official thread to another tracker
+ - providing details of ranks that have access to an invite forum on a tracker
+
 # Invite Forum Requirements
 
 | Tracker | Rank | Requirements | Verified Count | 
