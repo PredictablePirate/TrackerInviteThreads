@@ -22,6 +22,7 @@ Contributions do not need to be fully detailed, they could be as simple as:
 | MAM | Power User | 2.0 or higher ratio, with 25 GB upload (including bought with bonus points), and 4+ weeks on site. | 1 |
 | BLU | BluExtermist | Upload '>=' 20TiB and account 3 months old. | 1 |
 | BLU | BluSeeder | Seed Size '>=' 5TiB and account 1 month old and seedtime average 30 days or better. | 1 |
+| OPS | Elite | 100+ GiB with a 1.05+ ratio. Member for at least 4 weeks. Uploaded 50+ torrents | 1 |
 
 # Official
 | Tracker | Invite | Last Active | Requirements | Verified Count |
@@ -367,18 +368,18 @@ Contributions do not need to be fully detailed, they could be as simple as:
 | OB | UHDBits | ? | EU+ | 0 |
 | OCD | HDSky | ? | 4TB+ Upload | 0 |
 | OCD | SpringSunday | ? | CU+ | 0 |
-| OPS | BrasilTracker | ? | PU+, 3 months | 0 |
-| OPS | BrokenStones | ? | PU+ | 0 |
-| OPS | LzTr | ? | EU+, 6 months | 0 |
-| OPS | Notwhat.cd | ? | PU+ | 0 |
-| OPS | Oppaitime | ? | EU+, 3 months | 0 |
-| OPS | UHDBits | ? | PU+ | 0 |
-| OPS | HD-Forever | ? | PU+ | 0 |
+| OPS | BrasilTracker | ? | Elite, 3 months | 0 |
+| OPS | BrokenStones | ? | Elite | 0 |
+| OPS | LzTr | ? | Elite, 6 months | 0 |
+| OPS | Notwhat.cd | ? | Elite | 0 |
+| OPS | Oppaitime | ? | Elite, 3 months | 0 |
+| OPS | UHDBits | ? | Elite | 0 |
+| OPS | HD-Forever | ? | Elite | 0 |
 | OPS | Immortals | ? | 1) Please tell us a little bit about yourself including interests, hobbies and BT journey so far. <br> 2) Your current IP address. <br> 3) 3 additional Tracker profile links, must be over 1 year old. <br> 4) Unedited screens of those trackers provided from you profile page. <br> 5) Profile links to any other BT forum you are a member of (active or inactive) with unedited screens of your profile page. <br> Gmail only! | 0 |
-| OPS | LzTr | ? | EU+, 6 months | 0 |
-| OPS | Nebulance | ? | PU+ | 0 |
-| OPS | Oppaitime | ? | EU+, 3 months | 0 |
-| OPS | UHDBits | ? | PU+ | 0 |
+| OPS | LzTr | ? | Elite, 6 months | 0 |
+| OPS | Nebulance | ? | Elite | 0 |
+| OPS | Oppaitime | ? | Elite, 3 months | 0 |
+| OPS | UHDBits | ? | Elite | 0 |
 | OT | GazelleGames | ? | PU+, 3 months | 0 |
 | PB | TheHorrorChannel | ? | 1 month, 1.0+ ratio | 0 |
 | PHD | AvistaZ | ? | 3 months, 1.0+ ratio, 400GB upload, no HnRs | 0 |
